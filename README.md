@@ -6,19 +6,46 @@
 
 ---
 
-## 🧠 Tecnologías que manejo
+## 🛠️ Tecnologías que manejo
 
-- Python ![Python](https://skillicons.dev/icons?i=python)
-- Java ![Java](https://skillicons.dev/icons?i=java)
-- React ![React](https://skillicons.dev/icons?i=react)
-- Flutter ![Flutter](https://skillicons.dev/icons?i=flutter)
-- Django ![Django](https://skillicons.dev/icons?i=django)
-- Flask ![Flask](https://skillicons.dev/icons?i=flask)
-- JavaScript ![JavaScript](https://skillicons.dev/icons?i=js)
-- HTML ![HTML](https://skillicons.dev/icons?i=html)
-- CSS ![CSS](https://skillicons.dev/icons?i=css)
-- MySQL ![MySQL](https://skillicons.dev/icons?i=mysql)
-- NGINX ![NGINX](https://skillicons.dev/icons?i=nginx)
+<table>
+  <tr>
+    <td>Python</td>
+    <td><img src="https://skillicons.dev/icons?i=python" width="28"/></td>
+    <td>Java</td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="28"/></td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="28"/></td>
+    <td>Flutter</td>
+    <td><img src="https://skillicons.dev/icons?i=flutter" width="28"/></td>
+  </tr>
+  <tr>
+    <td>Django</td>
+    <td><img src="https://skillicons.dev/icons?i=django" width="28"/></td>
+    <td>Flask</td>
+    <td><img src="https://skillicons.dev/icons?i=flask" width="28"/></td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="28"/></td>
+    <td>HTML</td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="28"/></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="28"/></td>
+    <td>MySQL</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="28"/></td>
+  </tr>
+  <tr>
+    <td>NGINX</td>
+    <td><img src="https://skillicons.dev/icons?i=nginx" width="28"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
