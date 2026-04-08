@@ -1,4 +1,4 @@
-# Hola, soy Gabriel 👨🏽‍💻
+# Hola, soy Gabriel 👋
 
 🎓 Estudiante de Ingeniería de Sistemas - Universidad Libre  
 💻 Desarrollador en formación  
