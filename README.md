@@ -8,17 +8,7 @@
 
 ## 🧠 Tecnologías que manejo
 
-- Python 🐍
-- Java ☕
-- JavaScript ⚡
-- React ⚛️
-- Flutter 📱
-- SQL 🗄️
-- Django 🌐
-- Flask 🔥
-- Spring Boot 🌱
-- HTML & CSS 🎨
-- NGINX ⚙️
+![My Skills](https://skillicons.dev/icons?i=python,java,react,flutter,django,flask,js,html,css,mysql,nginx)
 
 ---
 
@@ -31,7 +21,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
