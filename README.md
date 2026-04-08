@@ -8,17 +8,17 @@
 
 ## 🧠 Tecnologías que manejo
 
-Python ![Python](https://skillicons.dev/icons?i=python) •
-Java ![Java](https://skillicons.dev/icons?i=java) •
-React ![React](https://skillicons.dev/icons?i=react) •
-Flutter ![Flutter](https://skillicons.dev/icons?i=flutter) •
-Django ![Django](https://skillicons.dev/icons?i=django) •
-Flask ![Flask](https://skillicons.dev/icons?i=flask) •
-JavaScript ![JS](https://skillicons.dev/icons?i=js) •
-HTML ![HTML](https://skillicons.dev/icons?i=html) •
-CSS ![CSS](https://skillicons.dev/icons?i=css) •
-MySQL ![MySQL](https://skillicons.dev/icons?i=mysql) •
-NGINX ![NGINX](https://skillicons.dev/icons?i=nginx)
+- Python ![Python](https://skillicons.dev/icons?i=python)
+- Java ![Java](https://skillicons.dev/icons?i=java)
+- React ![React](https://skillicons.dev/icons?i=react)
+- Flutter ![Flutter](https://skillicons.dev/icons?i=flutter)
+- Django ![Django](https://skillicons.dev/icons?i=django)
+- Flask ![Flask](https://skillicons.dev/icons?i=flask)
+- JavaScript ![JavaScript](https://skillicons.dev/icons?i=js)
+- HTML ![HTML](https://skillicons.dev/icons?i=html)
+- CSS ![CSS](https://skillicons.dev/icons?i=css)
+- MySQL ![MySQL](https://skillicons.dev/icons?i=mysql)
+- NGINX ![NGINX](https://skillicons.dev/icons?i=nginx)
 
 ---
 
