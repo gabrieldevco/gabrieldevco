@@ -65,7 +65,7 @@
 
 Soy estudiante de Ingeniería de Sistemas con formación adicional como asistente administrativo bilingüe, lo que me permite combinar habilidades técnicas con una visión organizacional y de negocio.
 
-Actualmente me enfoco en el desarrollo de aplicaciones reales, trabajando en proyectos como **FlexiDrive**, **SIHUL** y **NominaYa**, donde aplico conocimientos en backend, frontend y desarrollo móvil.
+Actualmente me enfoco en el desarrollo de aplicaciones reales, trabajando en proyectos como **FlexiDrive**, **Promomania**, **SIHUL** y **AppDelanto**, donde aplico conocimientos en backend, frontend y desarrollo móvil.
 
 Me interesa construir soluciones escalables, optimizadas y funcionales, no solo código que funcione. Disfruto aprender nuevas tecnologías, mejorar mis prácticas de desarrollo y enfrentar retos que me saquen de la zona de confort.
 
