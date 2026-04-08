@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Gabriel 👨🏽‍💻
 
-<!--
-**gabrieldevco/gabrieldevco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas - Universidad Libre  
+💻 Desarrollador en formación  
+🚀 Apasionado por la tecnología, desarrollo web y apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías que manejo
+
+- Python 🐍
+- Java ☕
+- JavaScript ⚡
+- React ⚛️
+- Flutter 📱
+- SQL 🗄️
+- Django 🌐
+- Flask 🔥
+- Spring Boot 🌱
+- HTML & CSS 🎨
+- NGINX ⚙️
+
+---
+
+## 🚀 Sobre mí
+
+- Me gusta crear aplicaciones reales
+- Estoy trabajando en proyectos como **FlexiDrive** **SIHUL** **NominaYa**
+- Me interesa el backend, frontend, mobile y sistemas escalables
+- Siempre buscando mejorar y aprender más
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
