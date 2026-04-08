@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería de Sistemas - Universidad Libre  
 💻 Desarrollador en formación  
-🚀 Apasionado por la tecnología, desarrollo web y apps
+🚀 Apasionado por la tecnología, desarrollo web y apps  
 
 ---
 
@@ -59,11 +59,28 @@
 
 ## 🚀 Sobre mí
 
-- Me gusta crear aplicaciones reales
-- Estoy trabajando en proyectos como **FlexiDrive** **SIHUL** **NominaYa**
-- Me interesa el backend, frontend, mobile y sistemas escalables
-- Siempre buscando mejorar y aprender más
+Soy estudiante de Ingeniería de Sistemas con formación adicional como asistente administrativo bilingüe, lo que me permite combinar habilidades técnicas con una visión organizacional y de negocio.
+
+Actualmente me enfoco en el desarrollo de aplicaciones reales, trabajando en proyectos como **FlexiDrive**, **SIHUL** y **NominaYa**, donde aplico conocimientos en backend, frontend y desarrollo móvil.
+
+Me interesa construir soluciones escalables, optimizadas y funcionales, no solo código que funcione. Disfruto aprender nuevas tecnologías, mejorar mis prácticas de desarrollo y enfrentar retos que me saquen de la zona de confort.
+
+Además, tengo experiencia en entornos administrativos y manejo del inglés, lo que me facilita adaptarme a equipos de trabajo y comprender necesidades reales del negocio.
 
 ---
 
+## 🎯 En lo que estoy enfocado
 
+- Desarrollo de aplicaciones móviles con Flutter  
+- Backend con Django, Flask y Spring Boot  
+- Arquitecturas escalables y buenas prácticas  
+- Integración de APIs y bases de datos SQL  
+- Optimización y despliegue con NGINX  
+
+---
+
+## 🧠 Mentalidad
+
+- Aprendo haciendo proyectos reales  
+- Busco siempre mejorar mi lógica y arquitectura  
+- Me enfoco en soluciones útiles, no solo teóricas  
